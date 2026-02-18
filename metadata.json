@@ -1,0 +1,8 @@
+
+{
+  "name": "Sweet Light Studio - Food Photography Portfolio",
+  "description": "A sophisticated, modern food photography portfolio with a feminine aesthetic and an AI-powered flavor story generator.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
